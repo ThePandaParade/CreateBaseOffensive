@@ -1,14 +1,15 @@
 <div align="center">
 <!-- placeholder image til an icon is finalised -->
-![logo](./src/main/resources/assets/baseoffensive/icon.png)
+<img src="https://via.placeholder.com/150" alt="Logo" width="150" height="150"><br>
 
 # Create: Base Offensive
 
 Adds stationary weapons to Minecraft, powered by Create.
 
-[![Release](https://img.shields.io/badge/Release-In_Development-red?style=for-the-badge)][releases]
-[![Available For](https://img.shields.io/badge/dynamic/json?label=Available%20For&style=for-the-badge&color=34aa2f&query=gameVersionLatestFiles%5B0%5D.gameVersion&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge]
-[![Downloads](https://img.shields.io/badge/dynamic/json?label=Downloads&style=for-the-badge&color=f16436&query=downloadCount&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge:files]
+![Release](https://img.shields.io/badge/Release-In_Development-red?style=for-the-badge)
+![Available For](https://img.shields.io/badge/Available_For-Fabric%201.20.1-purple?style=for-the-badge)
+![License](https://img.shields.io/github/license/ThePandaParade/CreateBaseOffensive?style=for-the-badge
+)
 </div>
 
 ---

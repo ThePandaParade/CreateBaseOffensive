@@ -1,14 +1,14 @@
 <div align="center">
-    <!-- placeholder image til an icon is finalised -->
-    ![logo](./src/main/resources/assets/baseoffensive/icon.png)
+<!-- placeholder image til an icon is finalised -->
+![logo](./src/main/resources/assets/baseoffensive/icon.png)
 
-    # Create: Base Offensive
+# Create: Base Offensive
 
-    Adds stationary weapons to Minecraft, powered by Create.
+Adds stationary weapons to Minecraft, powered by Create.
 
-    [![Release](https://img.shields.io/badge/Release-In_Development-red?style=for-the-badge)][releases]
-    [![Available For](https://img.shields.io/badge/dynamic/json?label=Available%20For&style=for-the-badge&color=34aa2f&query=gameVersionLatestFiles%5B0%5D.gameVersion&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge]
-    [![Downloads](https://img.shields.io/badge/dynamic/json?label=Downloads&style=for-the-badge&color=f16436&query=downloadCount&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge:files]
+[![Release](https://img.shields.io/badge/Release-In_Development-red?style=for-the-badge)][releases]
+[![Available For](https://img.shields.io/badge/dynamic/json?label=Available%20For&style=for-the-badge&color=34aa2f&query=gameVersionLatestFiles%5B0%5D.gameVersion&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge]
+[![Downloads](https://img.shields.io/badge/dynamic/json?label=Downloads&style=for-the-badge&color=f16436&query=downloadCount&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F494721)][curseforge:files]
 </div>
 
 ---

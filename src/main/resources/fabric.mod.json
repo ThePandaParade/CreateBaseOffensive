@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "baseoffensive",
+  "version": "${version}",
+  "name": "Create: Base Offensive",
+  "description": "become sloppenheimer",
+  "authors": [
+    "Robyn-Dawn 'ThePandaParade'"
+  ],
+  "contact": {
+    "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template",
+	"homepage": "https://pandapa.ws/wip"
+  },
+  "license": "CC0",
+  "icon": "assets/baseoffensive/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.tpp.baseoffensive.BaseOffensive"
+    ]
+  },
+  "mixins": [
+    "baseoffensive.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${fabric_loader_version}",
+    "fabric-api": ">=${fabric_api_version}",
+    "create": "${create_version}",
+    "minecraft": "${minecraft_version}",
+    "matrix": ">=1.0.0"
+  }
+}
